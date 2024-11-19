@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5740","postRequest","All Test Suite","Mon Nov 18 17:05:42 IST 2024","passed","Mon Nov 18 17:05:48 IST 2024","org.misc.TestFile","APIAutomationRestAssured","org.misc.TestFile","postRequest"
